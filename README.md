@@ -78,6 +78,6 @@ Use below Gradle command to run tests (with default settings i.e. browser = chro
 
 gradle clean test
 
-Use below Maven command to run tests on Firefox:
+Use below Gradle command to run tests on Firefox:
 
 gradle **-D**browser=**firefox** clean test
